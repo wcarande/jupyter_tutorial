@@ -3,6 +3,9 @@ name: ipython-env
 dependencies:
   - jupyter
   - matplotlib
+  - scikit-learn
+  - scipy
+  - imbalanced-learn
   - emoji
   - numpy
   - python=3.6
