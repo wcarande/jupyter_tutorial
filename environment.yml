@@ -1,0 +1,8 @@
+name: ipython-env
+
+dependencies:
+  - jupyter
+  - matplotlib
+  - emoji
+  - numpy
+  - python=3.6
