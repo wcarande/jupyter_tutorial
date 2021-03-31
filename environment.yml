@@ -6,3 +6,7 @@ dependencies:
   - emoji
   - numpy
   - python=3.6
+  - pandas
+  - seaborn
+  - pip:
+    - fortran-magic
